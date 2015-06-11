@@ -1,6 +1,6 @@
 # vantdet_random
-data from alice for randomization
+# Long_Random
+data for long to randomize 150 ATB (active tb) and 150 OD (other disease)
 
-# outline
-the script temp.R will read the data file in csv format, extract the non-hiv groups and
-randomly divide the data into x experiments. the sample ids can then be used for the experiments.
+# Sample_randomisation_Long.R
+Script to perform randomization.

@@ -6,7 +6,7 @@
 
 # R data files from past sessions
 *.Rdata
-
+temp.R
 
 # RStudio files
 .Rproj.user/
