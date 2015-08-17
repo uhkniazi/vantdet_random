@@ -1,5 +1,5 @@
 # vantdet_random
-data from alice for randomization
+various data sets for randomization from vantdet project
 
 # outline
 the script temp.R will read the data file in csv format, extract the non-hiv groups and
